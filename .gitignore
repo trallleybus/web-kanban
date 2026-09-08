@@ -1,0 +1,11 @@
+# Налаштування редакторів коду
+.vscode/
+.idea/
+
+# Системні файли macOS та Windows
+.DS_Store
+Thumbs.db
+
+# Папки з тимчасовими файлами
+node_modules/
+dist/
